@@ -1,0 +1,31 @@
+Scenarios for Signup page of gmail :-
+
+1. Verify that users can successfully create a new Gmail account.
+
+2. Check the system's response when attempting to register with a username that is already in use.
+
+3. Verify the functionaliy of unique email id and the suggestions based on the username.
+
+4. Ensure the system enforces password strength requirements and provides feedback to users.
+
+5. Confirm that users can input and edit their personal information (name, birthdate, etc.) accurately.
+
+6. Test the functionality of uploading and setting a profile picture during the sign-up process.
+
+7. If applicable, check the verification process for a mobile number to enhance account security.
+
+8. Test the option to add a recovery email and confirm its functionality.
+
+9. Ensure users can review and agree to the Terms of Service and Privacy Policy.
+
+10. Verify the effectiveness of the Captcha system in preventing automated bot sign-ups.
+
+11. Test the system's response when users input invalid information, ensuring clear error messages are displayed.
+
+12. Check the compatibility of the sign-up page across different web browsers.
+
+13. Verify that users receive a confirmation email promptly after signing up.
+
+14. Test any additional security measures, such as two-factor authentication, if available during the sign-up process.
+
+15. Ensure the sign-up page is responsive and user-friendly on various mobile devices.

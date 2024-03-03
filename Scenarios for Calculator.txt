@@ -1,0 +1,20 @@
+1) Verify that the calculator button’s placement is done correctly like numbers and function keys.
+
+2) Verify that the functions accurately perform basic arithmetic operations (addition, subtraction, multiplication, division) for everyday calculations.
+
+3) Verify that the calculator can correctly calculate percentages for various scenarios, such as discounts, tips, and interest rates.
+
+4) Verify the calculator's capability to solve complex mathematical equations and expressions involving multiple operations and parentheses.
+
+5) Check the calculator's accuracy in converting units of measurement, such as length, weight, volume, or temperature.
+
+6) Verify the calculator's suitability for engineering calculations, including formulas related to electrical circuits, mechanics, or thermodynamics.
+
+7) Making sure calculator can convert currencies accurately, handy for trips or dealing with international transactions.
+
+8) Making sure that calculator can store the previous data locally and also store on cloud.
+
+9) Ensure that the scientific functions on the calculator, including trigonometry, logarithms, and exponentials, provide accurate results for academic applications.
+
+10) Making sure that the calculator can store data for different types of use cases.
+
